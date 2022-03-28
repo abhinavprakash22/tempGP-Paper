@@ -1,10 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
-
-
 # The temporal overfitting problem with applications in wind power curve modeling
 
 ## Datasets:
