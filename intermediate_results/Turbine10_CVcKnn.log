@@ -1,0 +1,7 @@
+Turbine: 10 
+Thinning Number: 15 
+Best subset:wind_speed air_density turbulence_intensity 
+CVError: 2.559 
+OptimalK: 15 
+RMSE on test dataset T2: 4.822855
+RMSE on test dataset T3: 2.196640

@@ -1,0 +1,10 @@
+Specification of the regular GP model
+CovFn: matern32
+Hyperparameters: 
+Theta: 8.613919 0.037277 0.775102 5.172335 3.963636 3.029001 
+Sigma_f: 18.853783 
+Sigma_n: 1.386902 
+Beta: 31.027207 
+Objective Value: -41653.355004 
+RMSE on test dataset T2: 5.095321
+RMSE on test dataset T3: 2.061904

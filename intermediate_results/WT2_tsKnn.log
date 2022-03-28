@@ -1,0 +1,7 @@
+Turbine: WT2 
+Thinning Number: 14 
+Best subset:V I D 
+CVError: 4.172 
+OptimalK: 15 
+RMSE on test dataset T2: 4.593662
+RMSE on test dataset T3: 5.143535

@@ -1,0 +1,14 @@
+Turbine: 3 
+Specification of the temporal GP model
+Thinning Number: 32 
+Covariance function: matern32 
+Hyperparameters: 
+Theta: 4.543681 51.756877 16.289078 287.718302 107033.820731 90360.708149 
+Sigma_f: 43.253968 
+Sigma_n: 1.976059 
+Beta: 38.451312 
+Objective Value: -60442.310596 
+Gradient Vector: -0.000222 0.000003 -0.000009 0.000001 -0.000000 0.000000 0.000009 0.001394 0.000002 
+Exit Flag: 1 
+RMSE on test dataset T2: 2.422134
+RMSE on test dataset T3: 1.853091

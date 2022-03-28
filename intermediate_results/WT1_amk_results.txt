@@ -1,0 +1,4 @@
+Data_subset,RMSE
+Out-of-temporal T2,4.353
+Out-of-temporal T3,4.473
+In-temporal T1,3.875

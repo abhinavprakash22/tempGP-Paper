@@ -1,0 +1,13 @@
+Turbine: 4 
+CovType: matern32 matern32 
+Parameters: 
+Sigma_f: 30.265104 
+Sigma_g: 1.850525 
+Theta: 15.333092 0.433616 1.746709 18.477707 11.803995 25.832166 
+Phi: 4.814049
+Sigma_n: 1.059226
+Beta: 29.644494
+Objective Value: -50531.652060
+Gradient Value: 0.000860 0.000164 -0.002577 0.000149 -0.000042 0.000403 0.000275 0.005155 -0.010107 -0.001198 0.000598 
+Exit Flag: 1 
+RMSE on test dataset T2 3.343603
