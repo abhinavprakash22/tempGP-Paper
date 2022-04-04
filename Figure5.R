@@ -28,7 +28,7 @@ boxplot(cbind(regGP[,1]/binning[,1],tempGP_thin2[,1]/binning[,1],
               tempGP_thin64[,1]/binning[,1],tempGP[,1]/binning[,1]), 
         xlab = 'Thinning number (T)', ylab = "relative RMSE", xaxt='n', 
         cex.lab = 1.5, cex.axis = 1.33,
-        col =c("lightgray","lightgray","lightgray","lightgray","lightgray","lightgray","lightgray","red"))
+        col =c("lightgray","lightgray","lightgray","lightgray","lightgray","lightgray","lightgray","gray40"))
 title('a)', adj=0, cex.main=1.5)
 axis(side = 1, at= c(1:8), labels = c(2^c(0:6),"Adp"), cex.axis = 1.33)
 dev.off()
@@ -41,7 +41,7 @@ boxplot(cbind(regGP[,2]/binning[,2],tempGP_thin2[,2]/binning[,2],
               tempGP_thin64[,2]/binning[,2],tempGP[,2]/binning[,2]), 
         xlab = 'Thinning number (T)', ylab = "relative RMSE", xaxt='n', 
         cex.lab = 1.5, cex.axis = 1.33,
-        col =c("lightgray","lightgray","lightgray","lightgray","lightgray","lightgray","lightgray","red"))
+        col =c("lightgray","lightgray","lightgray","lightgray","lightgray","lightgray","lightgray","gray40"))
 title('b)', adj=0, cex.main=1.5)
 axis(side = 1, at= c(1:8), labels = c(2^c(0:6),"Adp"), cex.axis = 1.33)
 dev.off()
